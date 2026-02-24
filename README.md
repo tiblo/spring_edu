@@ -32,7 +32,7 @@ spring.thymeleaf.suffix=.html
 - 제공된 쿠폰을 80% 이상 사용하게 되면 주어진 기간이 지난 후 Jetbrains 사에서 다음 기간에 사용할 수 있는 쿠폰을 자동으로 보내줍니다.
 - 또 재신청을 하실 수도 있습니다.
 
-# 프로젝트 기반의 Java Web 애플리케이션 개발
+# Spring Boot를 활용한 Java Web 애플리케이션 개발
 
 ## 개요
 Spring Boot와 Thymeleaf, MyBatis를 활용한 Web 애플리케이션 개발
